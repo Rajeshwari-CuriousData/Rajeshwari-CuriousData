@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeshwari Singidas</h1>
 <h3 align="center">A Talented Python Programmer with DataScience</h3>
-<h3 img align="right" width="400" src ="https://www.shutterstock.com/image-vector/woman-sitting-on-sofa-working-laptop-1853232484" align ="left" </h3>
 
 - 🔭 I’m currently working on **statistical Data Analysis using python**
 
