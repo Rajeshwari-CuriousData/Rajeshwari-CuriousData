@@ -9,7 +9,8 @@
 
 - 🤝 I’m looking for help with **Advance Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Rajeshwari.Singidas@outlook.com](Rajeshwari.Singidas@outlook.com)
+- 👨‍💻 All of my projects are available at [http://github.com/Rajeshwari-CuriousData](http://github.com/Rajeshwari-CuriousData)
+)
 
 - 📝 I regularly write code on [Jupyter,Sublime,Pycharm,Spyder,GoogleColab](Jupyter,Sublime,Pycharm,Spyder,GoogleColab)
 
