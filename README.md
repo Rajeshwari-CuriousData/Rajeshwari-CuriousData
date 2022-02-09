@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeshwari Singidas</h1>
-<h3 align="center">Insightfull Data Inside</h3>
+<h3 align="center">A Talented python programmer with DataScience</h3>
 
 - 🔭 I’m currently working on **statistical Data Analysis using python**
 
